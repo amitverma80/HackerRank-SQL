@@ -1,3 +1,3 @@
 # HackerRank-SQL
 
-Hacker Rank SQL Queries solutions. Solution for Easy/Medium/Hard Queries.
+<a href="#">Hacker Rank </a>SQL Queries solutions. Solution for Easy/Medium/Hard Queries.
