@@ -1,6 +1,7 @@
 # HackerRank-SQL
 
 <html>
+ <meta name="google-site-verification" content="51-SvI8HZUI-LZeTLCLZ2elSKK68KLwNvjjvbIdbtf4" />
  <body>
  
 Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL</a> problems on <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">Hacker Rank </a>
