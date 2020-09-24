@@ -45,4 +45,16 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <td>10</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Easy/Draw%20The%20Triangle%202.sql">Solution</a></td>
    </tr> 
+  <tr>
+    <td>Medium</td>
+    <td><a href="https://www.hackerrank.com/challenges/the-pads/problem">The PADS</a></td>
+    <td>10</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/The%20PADS.sql">Solution</a></td>
+   </tr>
+  tr>
+    <td>Hard</td>
+    <td><a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem">15 Days of Learning SQL</a></td>
+    <td>10</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Hard/15%20Days%20of%20Learning%20SQL.sql">Solution</a></td>
+   </tr>
 </table>  
