@@ -1,5 +1,8 @@
 # HackerRank-SQL
 
+<html>
+ <body>
+ 
 Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL</a> problems on <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">Hacker Rank </a>
 
 <table width="100%"> 
@@ -58,3 +61,5 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Hard/15%20Days%20of%20Learning%20SQL.sql">Solution</a></td>
   </tr>
 </table>  
+<body> 
+<html> 
