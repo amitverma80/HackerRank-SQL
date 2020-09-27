@@ -1,10 +1,3 @@
-/*
-Enter your query here.
-Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
-*/
---Sql Server 2014 Express Edition
---Batches are separated by 'go'
-
 DECLARE @counter INT =2
 DECLARE @numb INT  = 5 
 DECLARE @result VARCHAR(2000)
