@@ -63,6 +63,18 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <td>40</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Print%20Prime%20Numbers.sql">Solution</a></td>
   </tr>
+ <tr>
+    <td>Medium</td>
+    <td><a href="https://www.hackerrank.com/challenges/placements/problem">Placements</a></td>
+    <td>40</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Placements.sql">Solution</a></td>
+  </tr>
+ <tr>
+    <td>Medium</td>
+    <td><a href="https://www.hackerrank.com/challenges/symmetric-pairs/problem">Symmetric Pairs</a></td>
+    <td>40</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Symmetric%20Pairs.sql">Solution</a></td>
+  </tr>
   <tr>
     <td>Hard</td>
     <td><a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem">15 Days of Learning SQL</a></td>
