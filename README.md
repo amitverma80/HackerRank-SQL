@@ -57,6 +57,12 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <td>30</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/The%20PADS.sql">Solution</a></td>
   </tr>
+ <tr>
+    <td>Medium</td>
+    <td><a href="https://www.hackerrank.com/challenges/print-prime-numbers/submissions/code/146386937">Print Prime Numbers</a></td>
+    <td>40</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Print%20Prime%20Numbers.sql">Solution</a></td>
+  </tr>
   <tr>
     <td>Hard</td>
     <td><a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem">15 Days of Learning SQL</a></td>
