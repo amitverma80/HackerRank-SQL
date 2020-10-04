@@ -33,8 +33,7 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <td rowspan="2">30</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Binary%20Tree%20Nodes-1.sql">Solution</a></td>
   </tr>
-  <tr>
-    <td>Medium</td>
+  <tr>    
     <td><a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem">Binary Tree Nodes</a></td>
     <td>30</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Binary%20Tree%20Nodes-2.sql">Solution</a></td>
