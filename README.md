@@ -15,6 +15,12 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <th>Max. Score</th>
     <th>Solution</th>
   </tr>
+ <tr>
+    <td>Hard</td>
+    <td><a href="https://www.hackerrank.com/challenges/interviews/problem">Interviews</a></td>
+    <td>50</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Hard/15%20Days%20of%20Learning%20SQL.sql">Solution</a></td>
+  </tr>
   <tr>
     <td>Hard</td>
     <td><a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem">15 Days of Learning SQL</a></td>
