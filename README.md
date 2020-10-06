@@ -28,9 +28,9 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Hard/15%20Days%20of%20Learning%20SQL.sql">Solution</a></td>
   </tr>
   <tr>
-    <td rowspan="2">Medium</td>
-    <td rowspan="2"><a href="https://www.hackerrank.com/challenges/the-company/problem">New Companies</a></td>
-    <td rowspan="2">30</td>
+    <td>Medium</td>
+    <td><a href="https://www.hackerrank.com/challenges/the-company/problem">New Companies</a></td>
+    <td>30</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/NewCompanies.sql">Solution</a></td>
   </tr>
   <tr>
