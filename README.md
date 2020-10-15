@@ -29,6 +29,12 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
   </tr>
   <tr>
     <td>Medium</td>
+    <td><a href="https://www.hackerrank.com/challenges/occupations/problem">Occupations</a></td>
+    <td>30</td>
+    <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/Occupations.sql">Solution</a></td>
+  </tr>
+  <tr>
+    <td>Medium</td>
     <td><a href="https://www.hackerrank.com/challenges/the-company/problem">New Companies</a></td>
     <td>30</td>
     <td><a href="https://github.com/amitverma80/HackerRank-SQL/blob/master/Medium/NewCompanies.sql">Solution</a></td>
