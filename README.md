@@ -10,10 +10,10 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
 
 <table width="100%"> 
   <tr>
-    <th>Difficulty Level</th>
-    <th width="50%">Problem</th>
-    <th>Max. Score</th>
-    <th>Solution</th>
+    <th width="20%">Difficulty Level</th>
+    <th width="60%">Problem</th>
+    <th width="10%">Max. Score</th>
+    <th width="10%">Solution</th>
   </tr>
  <tr>
     <td>Hard</td>
