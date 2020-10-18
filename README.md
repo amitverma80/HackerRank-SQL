@@ -11,8 +11,8 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
 <table width="100%"> 
   <tr>
     <th width="30%">Difficulty Level</th>
-    <th width="55%">Problem</th>
-    <th width="10%">Max. Score</th>
+    <th width="50%">Problem</th>
+    <th width="15%">Max. Score</th>
     <th width="5%">Solution</th>
   </tr>
  <tr>
